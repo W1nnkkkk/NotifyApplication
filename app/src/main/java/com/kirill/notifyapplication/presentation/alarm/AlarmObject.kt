@@ -34,7 +34,7 @@ object AlarmObject {
         alarmManager?.setRepeating(
             AlarmManager.RTC_WAKEUP,
             TimeObject.getMillisFromTime(localTime),
-            60000, //AlarmManager.INTERVAL_DAY,
+            AlarmManager.INTERVAL_DAY,
             alarmIntent
         )
     }
