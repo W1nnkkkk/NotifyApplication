@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotifyApplication</string>
+    <string name="enable_notifications">Turn on notifications</string>
+    <string name="empty_here">It\'s very empty so far. Click on the \'+\' at the bottom and create your notification</string>
+    <string name="name_notify">Notification name</string>
+    <string name="text_notify">Notification text</string>
+</resources>
